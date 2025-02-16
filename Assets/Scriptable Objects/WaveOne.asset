@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a98f9e012054c304b85b3245edf1acc1, type: 3}
+  m_Name: WaveOne
+  m_EditorClassIdentifier: 
+  <EnemiesAlive>k__BackingField:
+  - {fileID: 530710607072819178, guid: 99cb3874f1e31df4fa092b24cf448faf, type: 3}
+  <TimeBeforeThisWave>k__BackingField: 5
+  <EnemiesInQue>k__BackingField: 1
+  <EnemiesHealth>k__BackingField: 1
+  <EnemiesAttackDamage>k__BackingField: 1
